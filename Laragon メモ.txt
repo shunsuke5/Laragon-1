@@ -1,0 +1,8 @@
+Laragon メモ
+
+・インストール参考サイト
+　https://under-blog.com/laragon
+　https://qiita.com/mabasasi/items/0302e745c3e825b1301f
+　Jetstreamの導入は行っていない。
+
+・
